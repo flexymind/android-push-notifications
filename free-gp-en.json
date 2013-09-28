@@ -1,5 +1,5 @@
 {
-version: "4",
+version: "0",
 link: "market://details?id=com.flexymind.mheater",
 title: "Test notification",
 message: "in English"
