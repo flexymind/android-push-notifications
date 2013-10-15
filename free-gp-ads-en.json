@@ -1,6 +1,6 @@
 {
   "ads": [
     { package: "com.flexymind.kidsadventure",
-      image: "http://octodex.github.com/images/bear-cavalry.png"}
+      image: "https://raw.github.com/flexymind/android-push-notifications/kolobok/kidsadventure-en.png"}
   ]
 }
