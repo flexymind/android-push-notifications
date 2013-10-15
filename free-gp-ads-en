@@ -1,0 +1,8 @@
+{
+  "ads": [
+    { link: "market://details?id=com.flexymind.mheater",
+      image: "http://octodex.github.com/images/bear-cavalry.png" }, 
+    { link: "market://details?id=com.flexymind.mheater",
+      image: "http://octodex.github.com/images/bear-cavalry.png" }
+  ]
+}
