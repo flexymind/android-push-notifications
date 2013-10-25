@@ -1,6 +1,5 @@
 {
   "ads": [
-    { package: "com.flexymind.kidsadventure",
-      image: "https://raw.github.com/flexymind/android-push-notifications/kolobok/kidsadventure-ru.png"}
+    { }
   ]
 }
