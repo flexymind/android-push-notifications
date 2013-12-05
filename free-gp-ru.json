@@ -2,5 +2,6 @@
 version: "0",
 link: "market://details?id=com.flexymind.mheater",
 title: "Нотификация",
-message: "по-русски"
+message: "по-русски",
+package: "com.flexymind.feedtheanimals"
 }
