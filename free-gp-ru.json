@@ -1,5 +1,7 @@
 {
 version: "0",
-title: "Нотификация",
-message: "по-русски"
+title: "\"Планета Приключений\" — новый хит!",
+message: "Скачивайте с Google Play! Развивающая игра для детей от создателей \"Колобка\".",
+link: "market://details?id=com.flexymind.kidsadventure",
+package: "com.flexymind.kidsadventure"
 }
