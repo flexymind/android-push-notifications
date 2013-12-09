@@ -1,6 +1,7 @@
 {
 version: "0",
-link: "market://details?id=com.flexymind.mheater",
-title: "Test notification",
-message: "in English"
+title: "test for alphabet",
+message: "shows only if alph isnt installed",
+link: "market://details?id=com.flexymind.alphabet",
+package: "com.flexymind.alphabet"
 }
