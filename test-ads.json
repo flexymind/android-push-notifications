@@ -1,6 +1,6 @@
 {
   "ads": [
-    { package: "com.flexymind.kidsadventure",
+    { package: "com.flexymind.alphabet",
     image: "https://raw.github.com/flexymind/android-push-notifications/kolobok/kidsadventure-ru.png"}
   ]
 }
