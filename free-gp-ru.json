@@ -1,7 +1,7 @@
 {
-version: "5",
+version: "6",
 title: "\"Азбука и Алфавит для детей\"",
-message: "Учим буквы и звуки легко и весело! Скачать бесплатно c Google Play.",
+message: "Скачивайте бесплатно с Google Play! Учим буквы и звуки русского алфавита!",
 link: "market://details?id=com.flexymind.alphabet",
 package: "com.flexymind.alphabet"
 }
