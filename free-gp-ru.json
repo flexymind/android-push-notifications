@@ -1,7 +1,7 @@
 {
-version: "3",
+version: "4",
 title: "\"Планета Приключений\" — новый хит!",
-message: "Развивающая игра для детей. Скачать бесплатно c Google Play!",
+message: "Скачивайте с Google Play! Развивающая игра для детей.",
 link: "market://details?id=com.flexymind.kidsadventure",
 package: "com.flexymind.kidsadventure"
 }
