@@ -1,7 +1,7 @@
 {
-version: "5",
-title: "\"Планета Приключений\" — новый хит!",
-message: "Развивающая игра для детей. Скачать бесплатно c Google Play!",
-link: "market://details?id=com.flexymind.kidsadventure",
-package: "com.flexymind.kidsadventure"
+version: "0",
+title: "\"Кто Что Ест\" — игра для малышей!",
+message: "Лучшая занимательная игра для детей. Скачать бесплатно c Google Play!",
+link: "market://details?id=com.flexymind.feedtheanimals",
+package: "com.flexymind.feedtheanimals"
 }
