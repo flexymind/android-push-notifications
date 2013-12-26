@@ -1,4 +1,6 @@
 {
   "ads": [
+    { package: "com.flexymind.feedtheanimals",
+    image: "https://raw.github.com/flexymind/android-push-notifications/kolobok/feed_en.png"}
   ]
 }
