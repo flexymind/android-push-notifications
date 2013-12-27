@@ -20,13 +20,13 @@
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kolobok.png"
 	},{
     nameEn: "Lost&nbspGhosts",
-    nameRu: "Потеряшки"
+    nameRu: "Потеряшки",
     package: "com.flexymind.memsquare", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_lost_ghosts.png"
 	},{
     nameEn: "Music&nbspTales",
-    nameRu: "Музыкальные\nистории"
+    nameRu: "Музыкальные\nистории",
     package: "com.flexymind.alpha", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
