@@ -1,17 +1,4 @@
 {
 "banners": [
-    	{
-    nameEn: "",
-    nameRu: "Азбука", 
-    package: "com.flexymind.alphabet", 
-    isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
-    	},{
-    nameEn: "Music Tales",
-    nameRu: "Музыкальные\nистории",
-    package: "com.flexymind.alpha", 
-    isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
-	}
   ]
 }
