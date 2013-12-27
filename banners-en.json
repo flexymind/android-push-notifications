@@ -1,25 +1,25 @@
 {
 "banners": [
     {
-    name: "Kids Adventure" 
+    name: "Kids Adventure", 
     package: "com.flexymind.kidsadventure", 
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
 	},
 	{
-    name: "Kolobok:\nThe Miracle\nStove" 
+    name: "Kolobok:\nThe Miracle\nStove", 
     package: "com.flexymind.mheater", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kolobok.png"
 	},
 	{
-    name: "Lost&#160;Ghosts" 
+    name: "Lost&#160;Ghosts", 
     package: "com.flexymind.memsquare", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_lost_ghosts.png"
 	},
 	{
-    name: "Music&#160;Tales" 
+    name: "Music&#160;Tales", 
     package: "com.flexymind.alpha", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
