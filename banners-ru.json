@@ -1,34 +1,30 @@
 {
 "banners": [
-    {
-    name: "Азбука" 
-    package: "com.flexymind.alphabet", 
-    isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
-	},
-    {
-    name: "Планета\nприключений" 
-    package: "com.flexymind.kidsadventure", 
-    isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
-	},
 	{
-    name: "Колобок&#160;и\nЧудо-печка" 
-    package: "com.flexymind.mheater", 
-    isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kolobok.png"
-	},
-	{
-    name: "Потеряшки" 
-    package: "com.flexymind.memsquare", 
-    isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_lost_ghosts.png"
-	},
-	{
-    name: "Музыкальные\nистории" 
-    package: "com.flexymind.alpha", 
-    isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
+	name: "Азбука", 
+	package: "com.flexymind.alphabet", 
+    	isNew: true,
+    	bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
+	},{
+    	name: "Планета\nприключений", 
+    	package: "com.flexymind.kidsadventure", 
+    	isNew: true,
+    	bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
+	},{
+    	name: "Колобок&#160;и\nЧудо-печка", 
+    	package: "com.flexymind.mheater", 
+    	isNew: false,
+    	bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kolobok.png"
+	},{
+	name: "Потеряшки",
+	package: "com.flexymind.memsquare", 
+    	isNew: false,
+    	bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_lost_ghosts.png"
+	},{
+    	name: "Музыкальные\nистории", 
+    	package: "com.flexymind.alpha", 
+    	isNew: false,
+    	bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
 	}
   ]
 }
