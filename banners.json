@@ -7,11 +7,11 @@
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
     	},{
-    nameEn: "Kids\nAdventure",
-    nameRu: "Планета\nприключений",
-    package: "com.flexymind.kidsadventure", 
-    isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
+    nameEn: "Music Tales",
+    nameRu: "Музыкальные\nистории",
+    package: "com.flexymind.alpha", 
+    isNew: false,
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
 	}
   ]
 }
