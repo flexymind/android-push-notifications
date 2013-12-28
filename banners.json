@@ -4,27 +4,27 @@
     nameRu: "Кто что ест", 
     package: "com.flexymind.feedtheanimals", 
     isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_feed_the_animals.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_feed_the_pets.png"
     	},{
     nameRu: "Планета\nприключений",
     package: "com.flexymind.kidsadventure", 
     isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_kids_adventure.png"
 	},{
     nameRu: "Колобок и\nЧудо-печка",
     package: "com.flexymind.mheater", 
     isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kolobok.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_kolobok.png"
 	},{
     nameRu: "Потеряшки",
     package: "com.flexymind.memsquare", 
     isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_lost_ghosts.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_lost_ghosts.png"
 	},{
     nameRu: "Музыкальные\nистории",
     package: "com.flexymind.alpha", 
     isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_music_tales.png"
 	}
   ]
 }
