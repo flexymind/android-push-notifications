@@ -1,7 +1,7 @@
 {
 "banners": [
     	{
-    nameRu: "Кто&&&что&&&ест", 
+    nameRu: "Кто что ест", 
     package: "com.flexymind.feedtheanimals", 
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_feed_the_pets.png"
@@ -11,7 +11,7 @@
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_kids_adventure.png"
 	},{
-    nameRu: "Колобок&&&и\nЧудо-печка",
+    nameRu: "Колобок\nи Чудо-печка",
     package: "com.flexymind.mheater", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_kolobok.png"
