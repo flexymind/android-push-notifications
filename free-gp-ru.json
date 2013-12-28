@@ -1,7 +1,7 @@
 {
-version: "8",
+version: "9",
 title: "\"Кто Что Ест\" — игра для малышей!",
-message: "Лучшая занимательная игра для детей. Скачать бесплатно c Google Play!",
+message: "Лучшая детская занимательная игра. Скачать бесплатно c Google Play!",
 link: "market://details?id=com.flexymind.feedtheanimals",
 package: "com.flexymind.feedtheanimals"
 }
