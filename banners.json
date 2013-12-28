@@ -1,8 +1,8 @@
 {
 "banners": [
     	{
-    nameEn: "Feed&&&The&&&Pets",
-    nameRu: "Кто&&&что&&&ест",
+    nameEn: "Feed The Pets",
+    nameRu: "Кто что ест",
     package: "com.flexymind.feedtheanimals", 
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_feed_the_pets.png"
@@ -14,18 +14,18 @@
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_alphabet.png"
     	},{
     nameEn: "Kolobok:\nThe Miracle\nStove",
-    nameRu: "Колобок&&&и\nЧудо-печка",
+    nameRu: "Колобок и\nЧудо-печка",
     package: "com.flexymind.mheater", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_kolobok.png"
 	},{
-    nameEn: "Lost&&&Ghosts",
+    nameEn: "Lost Ghosts",
     nameRu: "Потеряшки",
     package: "com.flexymind.memsquare", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_lost_ghosts.png"
 	},{
-    nameEn: "Music&&&Tales",
+    nameEn: "Music Tales",
     nameRu: "Музыкальные\nистории",
     package: "com.flexymind.alpha", 
     isNew: false,
