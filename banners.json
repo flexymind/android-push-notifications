@@ -13,8 +13,8 @@
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_alphabet.png"
     	},{
-    nameEn: "Kolobok: The Miracle Stove",
-    nameRu: "Колобок и\nЧудо-печка",
+    nameEn: "Kolobok:\nThe Miracle Stove",
+    nameRu: "Колобок\nи Чудо-печка",
     package: "com.flexymind.mheater", 
     isNew: false,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_kolobok.png"
