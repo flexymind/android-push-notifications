@@ -1,15 +1,15 @@
 {
-"version": 2,
+"version": 1,
 "banners": [
     	{
     nameRu: "Кто что ест", 
     package: "com.flexymind.feedtheanimals", 
-    isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_kids_adventure.png"
+    isNew: true,
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_feed_the_pets.png"
     	},{
     nameRu: "Планета\nприключений",
     package: "com.flexymind.kidsadventure", 
-    isNew: false,
+    isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_kids_adventure.png"
 	},{
     nameRu: "Колобок\nи Чудо-печка",
