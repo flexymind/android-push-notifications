@@ -1,4 +1,8 @@
 [
     "com.flexymind.test.presidentsimulator.gems_1",
-    "com.flexymind.test.presidentsimulator.gems_5"
+    "com.flexymind.test.presidentsimulator.gems_5",
+    "com.flexymind.test.presidentsimulator.gems_10",
+    "com.flexymind.test.presidentsimulator.gems_20",
+    "com.flexymind.test.presidentsimulator.gems_50",
+    "com.flexymind.test.presidentsimulator.gems_100"
 ]
