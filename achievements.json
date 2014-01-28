@@ -1,0 +1,29 @@
+{
+	"achievements":[
+		{
+			name:"ach_2"
+			rules:[
+				"OnGetExpItemClicked",
+				"OnGetExpItemClicked",
+				"OnGetExpItemClicked",
+				"OnGetExpItemClicked",
+				"OnGetExpItemClicked",
+				"OnGetExpItemClicked"
+			]
+		},
+		{
+			name:"ach_3"
+			rules:[
+				"OnGetExpItemClicked",
+				"OnSettingsClicked"
+			]
+		},
+		{
+			name:"test"
+			rules:[
+				"OnGetExpItemClicked",
+				"OnBoosterBoughtClicked"
+			]
+		}
+	]
+}
