@@ -1,7 +1,7 @@
 {
 	"achievements":[
 		{
-			name:"ach_2"
+			name:"ach_2",
 			rules:[
 				"OnGetExpItemClicked",
 				"OnGetExpItemClicked",
@@ -12,14 +12,14 @@
 			]
 		},
 		{
-			name:"ach_3"
+			name:"ach_3",
 			rules:[
 				"OnGetExpItemClicked",
 				"OnSettingsClicked"
 			]
 		},
 		{
-			name:"test"
+			name:"test",
 			rules:[
 				"OnGetExpItemClicked",
 				"OnBoosterBoughtClicked"
