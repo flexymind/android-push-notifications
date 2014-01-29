@@ -1,0 +1,29 @@
+{
+        "achievements":[
+                {
+                        "name":"CgkIk4O2hYwIEAIQAw",
+                        "rules":[
+                                "OnGetExpItemClicked",
+                                "OnGetExpItemClicked",
+                                "OnGetExpItemClicked",
+                                "OnGetExpItemClicked",
+                                "OnGetExpItemClicked",
+                                "OnGetExpItemClicked"
+                        ]
+                },
+                {
+                        "name":"CgkIk4O2hYwIEAIQBA",
+                        "rules":[
+                                "OnGetExpItemClicked",
+                                "OnSettingsClicked"
+                        ]
+                },
+                {
+                        "name":"CgkIk4O2hYwIEAIQBQ",
+                        "rules":[
+                                "OnGetExpItemClicked",
+                                "OnBoosterBoughtClicked"
+                        ]
+                }
+        ]
+}
