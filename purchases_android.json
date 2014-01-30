@@ -1,0 +1,28 @@
+{
+    "purchases":[
+	    {
+	    	"id" : "pid_gems_pack_1",
+	    	"count" : 1
+	    },
+	    {
+	    	"id" : "pid_gems_pack_5",
+	    	"count" : 5
+	    },
+	    {
+	    	"id" : "pid_gems_pack_10",
+	    	"count" : 10
+	    },
+	    {
+	    	"id" : "pid_gems_pack_20",
+	    	"count" : 20
+	    },
+	    {
+	    	"id" : "pid_gems_pack_50",
+	    	"count" : 50
+	    },
+	    {
+	    	"id" : "pid_gems_pack_100",
+	    	"count" : 100
+	    }
+    ]
+} 
