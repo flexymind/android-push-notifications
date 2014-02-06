@@ -3,7 +3,7 @@
     [
     	{
         nameEn: "",
-        nameRu: "Азбука\u00A0и Алфавит", 
+        nameRu: "Азбука\u00A0и\nАлфавит", 
         package: "com.flexymind.alphabet", 
         isNew: true,
         bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
