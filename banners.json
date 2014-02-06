@@ -14,6 +14,12 @@
         isNew: true,
         bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
 	    },{
+        nameEn: "Feed\nThe\nPets",
+        nameRu: "Накорми\nживотных",
+        package: "com.flexymind.feedtheanimals", 
+        isNew: true,
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/alphabet/icon_feed_the_pets.png"
+      },{
         nameEn: "Kolobok:\nThe Miracle\nStove",
         nameRu: "Колобок\nи Чудо-печка",
         package: "com.flexymind.mheater", 
