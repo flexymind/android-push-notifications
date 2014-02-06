@@ -1,0 +1,36 @@
+{
+  "banners": 
+    [
+    	{
+        nameEn: "",
+        nameRu: "Азбука", 
+        package: "com.flexymind.alphabet", 
+        isNew: true,
+        bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
+    	},{
+        nameEn: "Kids\nAdventure",
+        nameRu: "Планета\nприключений",
+        package: "com.flexymind.kidsadventure", 
+        isNew: true,
+        bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kids_adventure.png"
+	    },{
+        nameEn: "Kolobok:\nThe Miracle\nStove",
+        nameRu: "Колобок\nи Чудо-печка",
+        package: "com.flexymind.mheater", 
+        isNew: false,
+        bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_kolobok.png"
+	    },{
+        nameEn: "Lost Ghosts",
+        nameRu: "Потеряшки",
+        package: "com.flexymind.memsquare", 
+        isNew: false,
+        bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_lost_ghosts.png"
+	    },{
+      nameEn: "Music Tales",
+      nameRu: "Музыкальные\nистории",
+      package: "com.flexymind.alpha", 
+      isNew: false,
+      bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_music_tales.png"
+	  }
+  ]
+}
