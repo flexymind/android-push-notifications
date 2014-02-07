@@ -1,7 +1,7 @@
 {
-version: "14",
-title: "\"Кто Что Ест\" — игра для малышей!",
-message: "Лучшая занимательная игра для детей! Скачать бесплатно c Google Play!",
-link: "market://details?id=com.flexymind.feedtheanimals",
-package: "com.flexymind.feedtheanimals"
+version: "15",
+title: "\"Город букв - Алфавит для детей\"",
+message: "Учим буквы играя! Бесплатно скачать c Google Play.",
+link: "market://details?id=com.flexymind.letters",
+package: "com.flexymind.letters"
 }
