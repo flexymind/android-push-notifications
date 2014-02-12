@@ -2,7 +2,13 @@
 "banners": [
     	{
     nameEn: "",
-    nameRu: "Азбука", 
+    nameRu: "Алфавит:\nГород\u00A0букв",
+    package: "com.flexymind.letters", 
+    isNew: true,
+    bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/feedtheanimals/icon_letters_city.png"
+	},{
+    nameEn: "",
+    nameRu: "Азбука\nи\u00A0Алфавит", 
     package: "com.flexymind.alphabet", 
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/feedtheanimals/icon_alphabet.png"
