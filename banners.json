@@ -1,18 +1,24 @@
 {
 "banners": [
     	{
+    nameEn: "",
+    nameRu: "Алфавит:\nГород\u00A0букв", 
+    package: "com.flexymind.letters", 
+    isNew: true,
+    bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/kidsadventure/icon_letters_city.png"
+    	},{
+    nameEn: "",
+    nameRu: "Азбука\nи\u00A0Алфавит", 
+    package: "com.flexymind.alphabet", 
+    isNew: true,
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_alphabet.png"
+    	},{
     nameEn: "Feed The Pets",
     nameRu: "Кто что ест",
     package: "com.flexymind.feedtheanimals", 
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_feed_the_pets.png"
         },{
-    nameEn: "",
-    nameRu: "Азбука", 
-    package: "com.flexymind.alphabet", 
-    isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_alphabet.png"
-    	},{
     nameEn: "Kolobok:\nThe Miracle Stove",
     nameRu: "Колобок\nи Чудо-печка",
     package: "com.flexymind.mheater", 
