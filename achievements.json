@@ -22,7 +22,7 @@
 			"name":"test",
 			"rules":[
 				"OnGetExpItemClicked",
-				"OnBoosterBoughtClicked"
+				"OnBuyBoosterItemClicked"
 			]
 		}
 	]
