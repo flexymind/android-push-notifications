@@ -1,6 +1,6 @@
 {
-version: "10",
-title: "\"Город букв - Алфавит для детей\"",
+version: "11",
+title: "\"Город букв - новый Алфавит для детей\"",
 message: "Учим буквы играя! Бесплатно скачать c Google Play.",
 link: "market://details?id=com.flexymind.letters",
 package: "com.flexymind.letters"
