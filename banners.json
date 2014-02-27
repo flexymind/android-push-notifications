@@ -2,41 +2,47 @@
   "banners": 
     [
     	{
+    	nameEn: "",
+    	nameRu: "Алфавит:\nГород\u00A0букв",
+    	package: "com.flexymind.letters", 
+    	isNew: true,
+    	bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_letters_city.png"
+	},{
         nameEn: "",
         nameRu: "Азбука\nи\u00A0Алфавит", 
         package: "com.flexymind.alphabet", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_alphabet.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_alphabet.png"
     	},{
         nameEn: "Kids\nAdventure",
         nameRu: "Планета\nприключений",
         package: "com.flexymind.kidsadventure", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_kids_adventure.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_kids_adventure.png"
 	    },{
         nameEn: "Feed\u00A0The\u00A0Pets",
         nameRu: "Накорми\nживотных",
         package: "com.flexymind.feedtheanimals", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_feed_the_pets.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_feed_the_pets.png"
       },{
         nameEn: "Kolobok:\nThe Miracle\nStove",
         nameRu: "Колобок\nи Чудо-печка",
         package: "com.flexymind.mheater", 
         isNew: false,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_kolobok.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_kolobok.png"
 	    },{
         nameEn: "Lost Ghosts",
         nameRu: "Потеряшки",
         package: "com.flexymind.memsquare", 
         isNew: false,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_lost_ghosts.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_lost_ghosts.png"
 	    },{
       nameEn: "Music Tales",
       nameRu: "Музыкальные\nистории",
       package: "com.flexymind.alpha", 
       isNew: false,
-      bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_music_tales.png"
+      bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_music_tales.png"
 	  }
   ]
 }
