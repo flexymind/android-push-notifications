@@ -3,13 +3,13 @@
     	{
     nameEn: "ABC\u00A0Handwriting\nWorksheets",
     nameRu: "Прописи\nдля\u00A0детей", 
-    package: "com.flexymind.alphabet", 
+    package: "com.flexymind.hand", 
     isNew: true,
     bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/letterscity/icon_hand.png"
     	},{
     nameEn: "",
     nameRu: "Алфавит:\nГород букв", 
-    package: "com.flexymind.alphabet", 
+    package: "com.flexymind.letters", 
     isNew: true,
     bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/feedtheanimals/icon_letters_city.png"
     	},{
