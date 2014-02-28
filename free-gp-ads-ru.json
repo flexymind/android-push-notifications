@@ -1,6 +1,6 @@
 {
   "ads": [
-    { package: "com.flexymind.letters",
-    image: "https://raw2.github.com/flexymind/android-push-notifications/kolobok/letters_ru.png"}
+    { package: "com.flexymind.hand",
+    image: "https://raw2.github.com/flexymind/android-push-notifications/kolobok/hand_ru.png"}
   ]
 }
