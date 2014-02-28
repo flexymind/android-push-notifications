@@ -1,7 +1,7 @@
 {
 "banners": [
     	{
-    nameEn: "ABC\u00A0Handwriting\nWorksheets",
+    nameEn: "ABC\nHandwriting\nWorksheets",
     nameRu: "Прописи\nдля\u00A0детей", 
     package: "com.flexymind.hand", 
     isNew: true,
