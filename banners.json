@@ -2,6 +2,11 @@
 "version": 1,
 "banners": [
     	{
+    nameRu: "Прописи\nдля\u00A0детей", 
+    package: "com.flexymind.hand", 
+    isNew: true,
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/alphabet/icon_hand.png"
+    	},{
     nameRu: "Алфавит:\nГород\u00A0букв",
     package: "com.flexymind.letters", 
     isNew: true,
