@@ -1,6 +1,12 @@
 {
 "banners": [
     	{
+    nameEn: "ABC\u00A0Handwriting\nWorksheets",
+    nameRu: "Прописи\nдля\u00A0детей", 
+    package: "com.flexymind.alphabet", 
+    isNew: true,
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/letterscity/icon_hand.png"
+    	},{
     nameEn: "",
     nameRu: "Алфавит:\nГород букв", 
     package: "com.flexymind.alphabet", 
