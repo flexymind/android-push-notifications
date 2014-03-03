@@ -24,7 +24,8 @@
         nameRu: "Накорми\nживотных",
         package: "com.flexymind.feedtheanimals", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_feed_the_pets.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/letterscity/icon_feed_the_pets.png",
+        linkEnd: "&referrer=utm_source%3Dfmcrosslayer%26utm_medium%3Dletters"
       },{
         nameEn: "Kolobok:\nThe Miracle\nStove",
         nameRu: "Колобок\nи Чудо-печка",
