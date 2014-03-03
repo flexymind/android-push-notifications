@@ -1,0 +1,11 @@
+{
+  "devices" : [
+      {
+          "vendor" : "samsung",
+          "models":[
+              "gt-p1000",
+              "gt-p1010"
+            ]
+      }
+  ]
+}
