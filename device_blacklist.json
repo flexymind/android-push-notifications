@@ -6,6 +6,24 @@
               "gt-p1000",
               "gt-p1010"
             ]
+      },
+      {
+          "vendor" : "turbopad",
+          "models":[
+              "701",
+              "tp701",
+              "tp 701",
+              "tp-701",
+              "turbopad 701"
+            ]
+      },
+      {
+          "vendor" : "oyster",
+          "models":[
+              "kids8",
+              "kids 8",
+              "oyster kids 8"
+            ]
       }
   ]
 }
