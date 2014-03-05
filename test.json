@@ -6,43 +6,50 @@
     	nameRu: "Алфавит:\nГород\u00A0букв",
     	package: "com.flexymind.letters", 
     	isNew: true,
-    	bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_letters_city.png"
+    	bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_letters_city.png",
+    	linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
 	},{
         nameEn: "",
         nameRu: "Азбука\nи\u00A0Алфавит", 
         package: "com.flexymind.alphabet", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_alphabet.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_alphabet.png",
+        linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
     	},{
         nameEn: "Kids\nAdventure",
         nameRu: "Планета\nприключений",
         package: "com.flexymind.kidsadventure", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_kids_adventure.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_kids_adventure.png",
+        linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
 	    },{
         nameEn: "Feed\u00A0The\u00A0Pets",
         nameRu: "Накорми\nживотных",
         package: "com.flexymind.feedtheanimals", 
         isNew: true,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_feed_the_pets.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_feed_the_pets.png",
+        linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
       },{
         nameEn: "Kolobok:\nThe Miracle\nStove",
         nameRu: "Колобок\nи Чудо-печка",
         package: "com.flexymind.mheater", 
         isNew: false,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_kolobok.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_kolobok.png",
+        linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
 	    },{
         nameEn: "Lost Ghosts",
         nameRu: "Потеряшки",
         package: "com.flexymind.memsquare", 
         isNew: false,
-        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_lost_ghosts.png"
+        bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_lost_ghosts.png",
+        linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
 	    },{
       nameEn: "Music Tales",
       nameRu: "Музыкальные\nистории",
       package: "com.flexymind.alpha", 
       isNew: false,
-      bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_music_tales.png"
+      bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/handwriting/icon_music_tales.png",
+        linkEnd: "&referrer=utm_source%3Dhandwriting%26utm_medium%3DcrossLinkLayer"
 	  }
   ]
 }
