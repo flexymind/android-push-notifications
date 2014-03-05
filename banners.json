@@ -5,43 +5,50 @@
     nameRu: "Прописи\nдля\u00A0детей", 
     package: "com.flexymind.hand", 
     isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_hand.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_hand.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
     	},{
     nameEn: "",
     nameRu: "Алфавит:\nГород\u00A0букв", 
     package: "com.flexymind.letters", 
     isNew: true,
-    bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/kidsadventure/icon_letters_city.png"
+    bitmapLink: "https://raw2.github.com/flexymind/android-push-notifications/kidsadventure/icon_letters_city.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
     	},{
     nameEn: "",
     nameRu: "Азбука\nи\u00A0Алфавит", 
     package: "com.flexymind.alphabet", 
     isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_alphabet.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_alphabet.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
     	},{
     nameEn: "Feed The Pets",
     nameRu: "Кто что ест",
     package: "com.flexymind.feedtheanimals", 
     isNew: true,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_feed_the_pets.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_feed_the_pets.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
         },{
     nameEn: "Kolobok:\nThe Miracle Stove",
     nameRu: "Колобок\nи Чудо-печка",
     package: "com.flexymind.mheater", 
     isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_kolobok.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_kolobok.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
 	},{
     nameEn: "Lost Ghosts",
     nameRu: "Потеряшки",
     package: "com.flexymind.memsquare", 
     isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_lost_ghosts.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_lost_ghosts.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
 	},{
     nameEn: "Music Tales",
     nameRu: "Музыкальные\nистории",
     package: "com.flexymind.alpha", 
     isNew: false,
-    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_music_tales.png"
+    bitmapLink: "https://raw.github.com/flexymind/android-push-notifications/kidsadventure/icon_music_tales.png",
+        linkEnd: "&referrer=utm_source%3DkidsAdventure%26utm_medium%3DcrossLinkLayer"
 	}
   ]
 }
