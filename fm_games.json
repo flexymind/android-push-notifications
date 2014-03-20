@@ -1,0 +1,55 @@
+{
+    "fm_games" : {
+        "json_ver" : 1,
+
+        "1" : {
+            "ru_name" : "Прописи\nдля\u00A0детей",
+            "en_name" : "ABC\nHandwriting\nWorksheets",
+            "package" : "hand",
+            "icon_texture_link" : "icon_hand.png",
+            "isNew" : true
+        },
+        "2" : {
+            "ru_name" : "Алфавит:\nГород\u00A0букв",
+            "package" : "letters",
+            "icon_texture_link" : "icon_letters_city.png",
+            "isNew" : true
+        },
+        "3" : {
+            "ru_name" : "Азбука\nи\u00A0Алфавит",
+            "package" : "alphabet",
+            "icon_texture_link" : "icon_alphabet.png",
+            "isNew" : true
+        },
+        "4" : {
+            "ru_name" : "Планета\nприключений",
+            "en_name" : "Kids\nAdventure",
+            "package" : "kidsadventure",
+            "icon_texture_link" : "icon_kids_adv.png",
+            "isNew" : true
+        },
+        "5" : {
+            "ru_name" : "Кто что ест",
+            "package" : "feedtheanimals",
+            "icon_texture_link" : "icon_feed_the_pets.png"
+        },
+        "6" : {
+            "ru_name" : "Колобок\nи Чудо-печка",
+            "en_name" : "Kolobok:\nThe Miracle\nStove",
+            "package" : "mheater",
+            "icon_texture_link" : "icon_mheater.png"
+        },
+        "7" : {
+            "ru_name" : "Музыкальные\nистории",
+            "en_name" : "Music Tales",
+            "package" : "alpha",
+            "icon_texture_link" : "icon_piano.png"
+        },
+        "8" : {
+            "ru_name" : "Потеряшки",
+            "en_name" : "Lost Ghosts",
+            "package" : "memsquare",
+            "icon_texture_link" : "icon_lost_ghosts.png"
+        }
+    }
+}
