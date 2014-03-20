@@ -7,26 +7,26 @@
             "en_name" : "ABC\nHandwriting\nWorksheets",
             "package" : "hand",
             "icon_texture_link" : "icon_hand.png",
-            "isNew" : true
+            "is_new" : true
         },
         "2" : {
             "ru_name" : "Алфавит:\nГород\u00A0букв",
             "package" : "letters",
             "icon_texture_link" : "icon_letters_city.png",
-            "isNew" : true
+            "is_new" : true
         },
         "3" : {
             "ru_name" : "Азбука\nи\u00A0Алфавит",
             "package" : "alphabet",
             "icon_texture_link" : "icon_alphabet.png",
-            "isNew" : true
+            "is_new" : true
         },
         "4" : {
             "ru_name" : "Планета\nприключений",
             "en_name" : "Kids\nAdventure",
             "package" : "kidsadventure",
             "icon_texture_link" : "icon_kids_adv.png",
-            "isNew" : true
+            "is_new" : true
         },
         "5" : {
             "ru_name" : "Кто что ест",
