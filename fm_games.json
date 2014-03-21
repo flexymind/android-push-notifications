@@ -3,7 +3,7 @@
         "json_ver" : 1,
 
         "hand" : {
-            "analytics_name" : "handwriting", 
+            "analytics_name" : "handwriting",
             "priority" : 1,
             "ru_name" : "Прописи\nдля\u00A0детей",
             "en_name" : "ABC\nHandwriting\nWorksheets",
@@ -11,7 +11,7 @@
             "icon_texture_link" : "icon_hand.png",
             "is_new" : true
         },
-        
+
         "letters" : {
             "analytics_name" : "letters",
             "priority" : 2,
@@ -20,7 +20,7 @@
             "icon_texture_link" : "icon_letters_city.png",
             "is_new" : true
         },
-        
+
         "alphabet" : {
             "analytics_name" : "alphabet",
             "priority" : 3,
@@ -29,7 +29,7 @@
             "icon_texture_link" : "icon_alphabet.png",
             "is_new" : true
         },
-        
+
         "kidsadventure" : {
             "analytics_name" : "kidsAdventure",
             "priority" : 4,
@@ -39,7 +39,7 @@
             "icon_texture_link" : "icon_kids_adv.png",
             "is_new" : true
         },
-        
+
         "feedtheanimals" : {
             "analytics_name" : "feedThePets",
             "priority" : 5,
@@ -47,7 +47,7 @@
             "package" : "",
             "icon_texture_link" : "icon_feed_the_pets.png"
         },
-        
+
         "mheater" : {
             "analytics_name" : "kolobok",
             "priority" : 6,
@@ -56,7 +56,7 @@
             "package" : "",
             "icon_texture_link" : "icon_mheater.png"
         },
-        
+
         "alpha" : {
             "analytics_name" : "piano",
             "priority" : 7,
@@ -65,7 +65,7 @@
             "package" : "",
             "icon_texture_link" : "icon_piano.png"
         },
-        
+
         "memsquare" : {
             "analytics_name" : "memsquare",
             "priority" : 8,
