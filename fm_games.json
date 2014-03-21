@@ -34,7 +34,7 @@
             "icon_texture_link" : "icon_feed_the_pets.png"
         },
         "6" : {
-            "ru_name" : "Колобок\nи Чудо-печка",
+            "ru_name" : "Колобок\nи\u00A0Чудо-печка",
             "en_name" : "Kolobok:\nThe Miracle\nStove",
             "package" : "mheater",
             "icon_texture_link" : "icon_mheater.png"
