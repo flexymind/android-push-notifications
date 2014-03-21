@@ -1,65 +1,77 @@
 {
     "fm_games" : {
         "json_ver" : 1,
-    
-        "analytics" : {
-            "hand"  : "handwriting",
-            "alphabet"  : "alphabet",
-            "letters"  : "letters",
-            "kidsadventure"  : "kidsAdventure",
-            "feedtheanimals"  : "feedThePets",
-            "mheater"  : "kolobok",
-            "alpha"  : "piano",
-            "memsquare"  : "memsquare"
-        },
-        
-        "1" : {
+
+        "hand" : {
+            "analytics_name" : "handwriting", 
+            "priority" : 1,
             "ru_name" : "Прописи\nдля\u00A0детей",
             "en_name" : "ABC\nHandwriting\nWorksheets",
-            "package" : "hand",
+            "package" : "",
             "icon_texture_link" : "icon_hand.png",
             "is_new" : true
         },
-        "2" : {
+        
+        "letters" : {
+            "analytics_name" : "letters",
+            "priority" : 2,
             "ru_name" : "Алфавит:\nГород\u00A0букв",
-            "package" : "letters",
+            "package" : "",
             "icon_texture_link" : "icon_letters_city.png",
             "is_new" : true
         },
-        "3" : {
+        
+        "alphabet" : {
+            "analytics_name" : "alphabet",
+            "priority" : 3,
             "ru_name" : "Азбука\nи\u00A0Алфавит",
-            "package" : "alphabet",
+            "package" : "",
             "icon_texture_link" : "icon_alphabet.png",
             "is_new" : true
         },
-        "4" : {
+        
+        "kidsadventure" : {
+            "analytics_name" : "kidsAdventure",
+            "priority" : 4,
             "ru_name" : "Планета\nприключений",
             "en_name" : "Kids\nAdventure",
-            "package" : "kidsadventure",
+            "package" : "",
             "icon_texture_link" : "icon_kids_adv.png",
             "is_new" : true
         },
-        "5" : {
+        
+        "feedtheanimals" : {
+            "analytics_name" : "feedThePets",
+            "priority" : 5,
             "ru_name" : "Кто\u00A0что\u00A0ест",
-            "package" : "feedtheanimals",
+            "package" : "",
             "icon_texture_link" : "icon_feed_the_pets.png"
         },
-        "6" : {
-            "ru_name" : "Колобок\nи\u00A0Чудо-печка",
+        
+        "mheater" : {
+            "analytics_name" : "kolobok",
+            "priority" : 6,
+            "ru_name" : "Колобок\nи Чудо-печка",
             "en_name" : "Kolobok:\nThe Miracle\nStove",
-            "package" : "mheater",
+            "package" : "",
             "icon_texture_link" : "icon_mheater.png"
         },
-        "7" : {
+        
+        "alpha" : {
+            "analytics_name" : "piano",
+            "priority" : 7,
             "ru_name" : "Музыкальные\nистории",
             "en_name" : "Music Tales",
-            "package" : "alpha",
+            "package" : "",
             "icon_texture_link" : "icon_piano.png"
         },
-        "8" : {
-            "ru_name" : "Потеряшки",
+        
+        "memsquare" : {
+            "analytics_name" : "memsquare",
+            "priority" : 8,
+            "ru_name" : "Поте ряшки",
             "en_name" : "Lost Ghosts",
-            "package" : "memsquare",
+            "package" : "",
             "icon_texture_link" : "icon_lost_ghosts.png"
         }
     }
