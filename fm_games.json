@@ -1,7 +1,18 @@
 {
     "fm_games" : {
         "json_ver" : 1,
-
+    
+        "analytics" : {
+            "hand"  : "handwriting",
+            "alphabet"  : "alphabet",
+            "letters"  : "letters",
+            "kidsadventure"  : "kidsAdventure",
+            "feedtheanimals"  : "feedThePets",
+            "mheater"  : "kolobok",
+            "alpha"  : "piano",
+            "memsquare"  : "memsquare"
+        },
+        
         "1" : {
             "ru_name" : "Прописи\nдля\u00A0детей",
             "en_name" : "ABC\nHandwriting\nWorksheets",
