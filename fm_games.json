@@ -7,7 +7,6 @@
             "priority" : 1,
             "ru_name" : "Прописи\nдля\u00A0детей",
             "en_name" : "ABC\nHandwriting\nWorksheets",
-            "package" : "",
             "icon_texture_link" : "icon_hand.png",
             "is_new" : true
         },
@@ -16,7 +15,6 @@
             "analytics_name" : "letters",
             "priority" : 2,
             "ru_name" : "Алфавит:\nГород\u00A0букв",
-            "package" : "",
             "icon_texture_link" : "icon_letters_city.png",
             "is_new" : true
         },
@@ -25,7 +23,6 @@
             "analytics_name" : "alphabet",
             "priority" : 3,
             "ru_name" : "Азбука\nи\u00A0Алфавит",
-            "package" : "",
             "icon_texture_link" : "icon_alphabet.png",
             "is_new" : true
         },
@@ -35,7 +32,6 @@
             "priority" : 4,
             "ru_name" : "Планета\nприключений",
             "en_name" : "Kids\nAdventure",
-            "package" : "",
             "icon_texture_link" : "icon_kids_adv.png",
             "is_new" : true
         },
@@ -44,7 +40,6 @@
             "analytics_name" : "feedThePets",
             "priority" : 5,
             "ru_name" : "Кто\u00A0что\u00A0ест",
-            "package" : "",
             "icon_texture_link" : "icon_feed_the_pets.png"
         },
 
@@ -53,7 +48,6 @@
             "priority" : 6,
             "ru_name" : "Колобок\nи Чудо-печка",
             "en_name" : "Kolobok:\nThe Miracle\nStove",
-            "package" : "",
             "icon_texture_link" : "icon_mheater.png"
         },
 
@@ -62,7 +56,6 @@
             "priority" : 7,
             "ru_name" : "Музыкальные\nистории",
             "en_name" : "Music Tales",
-            "package" : "",
             "icon_texture_link" : "icon_piano.png"
         },
 
@@ -71,7 +64,6 @@
             "priority" : 8,
             "ru_name" : "Поте ряшки",
             "en_name" : "Lost Ghosts",
-            "package" : "",
             "icon_texture_link" : "icon_lost_ghosts.png"
         }
     }
