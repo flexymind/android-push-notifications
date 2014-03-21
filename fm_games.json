@@ -29,7 +29,7 @@
             "is_new" : true
         },
         "5" : {
-            "ru_name" : "Кто что ест",
+            "ru_name" : "Кто\u00A0что\u00A0ест",
             "package" : "feedtheanimals",
             "icon_texture_link" : "icon_feed_the_pets.png"
         },
