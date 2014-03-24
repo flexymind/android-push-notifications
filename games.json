@@ -1,6 +1,6 @@
 {
     "fm_games" : {
-        "json_ver" : 1,
+        "json_ver" : 2,
 
         "hand" : {
             "analytics_name" : "handwriting",
@@ -40,6 +40,7 @@
             "analytics_name" : "feedThePets",
             "priority" : 5,
             "ru_name" : "Кто\u00A0что\u00A0ест",
+            "en_name" : "Feed\u00A0the\u00A0pets",
             "icon_texture_link" : "icon_feed_the_pets.png"
         },
 
