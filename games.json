@@ -1,6 +1,6 @@
 {
     "fm_games" : {
-        "json_ver" : 2,
+        "json_ver" : 3,
 
         "hand" : {
             "analytics_name" : "handwriting",
