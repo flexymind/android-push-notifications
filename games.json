@@ -1,6 +1,6 @@
 {
     "fm_games" : {
-        "json_ver" : 3,
+        "json_ver" : 4,
 
         "hand" : {
             "analytics_name" : "handwriting",
@@ -63,7 +63,7 @@
         "memsquare" : {
             "analytics_name" : "memsquare",
             "priority" : 8,
-            "ru_name" : "Поте ряшки",
+            "ru_name" : "Потеряшки",
             "en_name" : "Lost Ghosts",
             "icon_texture_link" : "icon_lost_ghosts.png"
         }
