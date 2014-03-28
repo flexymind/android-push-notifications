@@ -1,7 +1,7 @@
 {
 version: "0",
-title: "\"Свежие игры-новинки для Вас!\"",
-message: "Нажмите, чтобы проверить!",
+title: "Свежие игры-новинки для Вас!",
+message: "Нажмите, чтобы проверить",
 link: "market://details?id=com.flexymind.hand",
 package: "com.flexymind.hand"
 }
