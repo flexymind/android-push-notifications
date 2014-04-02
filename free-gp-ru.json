@@ -1,7 +1,7 @@
 {
-version: "22",
-title: "Свежие игры-новинки для Вас!",
+version: "23",
+title: "Интересные игры-новинки для Вас!",
 message: "Нажмите, чтобы проверить",
-link: "market://details?id=com.flexymind.hand",
-package: "com.flexymind.hand"
+link: "market://details?id=com.flexymind.letters",
+package: "com.flexymind.letters"
 }
