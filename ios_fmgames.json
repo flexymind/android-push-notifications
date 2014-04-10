@@ -15,7 +15,7 @@
         "feedthepets" : {
             "analytics_name" : "feed_the_pets",
             "priority" : 2,
-            "link" : "itunes.apple.com/us/app/feed-the-pets/id786392858?mt=8",
+            "link" : "https://itunes.apple.com/us/app/feed-the-pets/id786392858?mt=8",
             "ru_name" : "Кто что ест",
             "en_name" : "Feed the pets",
             "icon_texture_link" : "icon_feed_the_pets.png",
