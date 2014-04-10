@@ -6,7 +6,7 @@
             "analytics_name" : "kids_adventure_odd_one_out",
             "priority" : 1,
             "link" : "https://itunes.apple.com/ru/app/najdi-lisnee-planeta-priklucenij/id770790884?mt=8",
-            "ru_name" : "Найди лишнее",
+            "ru_name" : "Найди\nлишнее",
             "en_name" : "Odd One Out",
             "icon_texture_link" : "icon_odd_one_out.png",
             "is_new" : true
@@ -22,18 +22,9 @@
             "is_new" : true
         },
 
-        "mheater.ios" : {
-            "analytics_name" : "kolobok_farm",
-            "priority" : 3,
-            "link" : "https://itunes.apple.com/ru/app/kolobok-i-cudo-pecka/id659872234?mt=8",
-            "ru_name" : "Колобок\nи Чудо-печка",
-            "en_name" : "Kolobok:\nThe Miracle\nStove",
-            "icon_texture_link" : "icon_mheater.png"
-        },
-
         "mheaterfull" : {
             "analytics_name" : "kolobok_full",
-            "priority" : 4,
+            "priority" : 3,
             "bundle" : "com.flexymind.mheaterfull",
             "link" : "https://itunes.apple.com/ru/app/kolobok-i-cudo-pecka/id659872234?mt=8",
             "ru_name" : "Колобок\nи Чудо-печка",
