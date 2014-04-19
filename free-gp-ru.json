@@ -1,6 +1,6 @@
 {
-version: "13",
-title: "Интересные игры-новинки для Вас!",
+version: "14",
+title: "Новые детские игры для Вас!",
 message: "Нажмите, чтобы проверить",
 link: "market://details?id=com.flexymind.hand",
 package: "com.flexymind.hand"
