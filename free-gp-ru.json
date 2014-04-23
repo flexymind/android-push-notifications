@@ -1,7 +1,7 @@
 {
-version: "1",
-title: "Свежие игры-новинки для Вас!",
-message: "Нажмите, чтобы проверить",
+version: "2",
+title: "Развивающие детские игры для Вас!",
+message: "Нажмите, чтобы посмотреть",
 link: "market://details?id=com.flexymind.hand",
 package: "com.flexymind.hand"
 }
