@@ -1,10 +1,19 @@
 {
     "fm_games" : {
-        "json_ver" : 4,
+        "json_ver" : 5,
+
+        "math" : {
+            "analytics_name" : "math",
+            "priority" : 1,
+            "ru_name" : "Математика\nдля\u00A0детей",
+            "en_name" : "Math\u00A0&\u00A0count\nfor\u00A0kids",
+            "icon_texture_link" : "icon_math.png",
+            "is_new" : true
+        },
 
         "hand" : {
             "analytics_name" : "handwriting",
-            "priority" : 1,
+            "priority" : 2,
             "ru_name" : "Прописи\nдля\u00A0детей",
             "en_name" : "ABC\nHandwriting\nWorksheets",
             "icon_texture_link" : "icon_hand.png",
@@ -13,7 +22,7 @@
 
         "letters" : {
             "analytics_name" : "letters",
-            "priority" : 2,
+            "priority" : 3,
             "ru_name" : "Алфавит:\nГород\u00A0букв",
             "icon_texture_link" : "icon_letters_city.png",
             "is_new" : true
@@ -21,7 +30,7 @@
 
         "alphabet" : {
             "analytics_name" : "alphabet",
-            "priority" : 3,
+            "priority" : 4,
             "ru_name" : "Азбука\nи\u00A0Алфавит",
             "icon_texture_link" : "icon_alphabet.png",
             "is_new" : true
@@ -29,7 +38,7 @@
 
         "kidsadventure" : {
             "analytics_name" : "kidsAdventure",
-            "priority" : 4,
+            "priority" : 5,
             "ru_name" : "Планета\nприключений",
             "en_name" : "Kids\nAdventure",
             "icon_texture_link" : "icon_kids_adv.png",
@@ -38,7 +47,7 @@
 
         "feedtheanimals" : {
             "analytics_name" : "feedThePets",
-            "priority" : 5,
+            "priority" : 6,
             "ru_name" : "Кто\u00A0что\u00A0ест",
             "en_name" : "Feed\u00A0the\u00A0pets",
             "icon_texture_link" : "icon_feed_the_pets.png"
@@ -46,7 +55,7 @@
 
         "mheater" : {
             "analytics_name" : "kolobok",
-            "priority" : 6,
+            "priority" : 7,
             "ru_name" : "Колобок\nи Чудо-печка",
             "en_name" : "Kolobok:\nThe Miracle\nStove",
             "icon_texture_link" : "icon_mheater.png"
@@ -54,7 +63,7 @@
 
         "alpha" : {
             "analytics_name" : "piano",
-            "priority" : 7,
+            "priority" : 8,
             "ru_name" : "Музыкальные\nистории",
             "en_name" : "Music Tales",
             "icon_texture_link" : "icon_piano.png"
@@ -62,7 +71,7 @@
 
         "memsquare" : {
             "analytics_name" : "memsquare",
-            "priority" : 8,
+            "priority" : 9,
             "ru_name" : "Потеряшки",
             "en_name" : "Lost Ghosts",
             "icon_texture_link" : "icon_lost_ghosts.png"
