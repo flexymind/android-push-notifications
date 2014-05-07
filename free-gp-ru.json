@@ -1,7 +1,7 @@
 {
-version: "15",
-title: "Развивающие детские игры для Вас!",
+version: "16",
+title: "Новинка - Математика для детей!",
 message: "Нажмите, чтобы посмотреть",
-link: "market://details?id=com.flexymind.hand",
-package: "com.flexymind.hand"
+link: "market://details?id=com.flexymind.math",
+package: "com.flexymind.math"
 }
