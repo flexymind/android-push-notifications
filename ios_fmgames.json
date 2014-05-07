@@ -1,10 +1,20 @@
 {
     "fm_games" : {
-        "json_ver" : 0,
+        "json_ver" : 1,
+
+        "math" : {
+            "analytics_name" : "math",
+            "priority" : 1,
+            "link" : "https://itunes.apple.com/en/app/early-math-numbers-counting/id860554653?mt=8",
+            "ru_name" : "Математика\nдля детей",
+            "en_name" : "Math & count\nfor kids",
+            "icon_texture_link" : "icon_math.png",
+            "is_new" : true
+        },
 
         "kidsadventure.oddoneout.full" : {
             "analytics_name" : "kids_adventure_odd_one_out",
-            "priority" : 1,
+            "priority" : 2,
             "link" : "https://itunes.apple.com/ru/app/najdi-lisnee-planeta-priklucenij/id770790884?mt=8",
             "ru_name" : "Найди\nлишнее",
             "en_name" : "Odd One Out",
@@ -14,7 +24,7 @@
 
         "feedthepets" : {
             "analytics_name" : "feed_the_pets",
-            "priority" : 2,
+            "priority" : 3,
             "link" : "https://itunes.apple.com/us/app/feed-the-pets/id786392858?mt=8",
             "ru_name" : "Кто что ест",
             "en_name" : "Feed the pets",
@@ -24,7 +34,7 @@
 
         "mheaterfull" : {
             "analytics_name" : "kolobok_full",
-            "priority" : 3,
+            "priority" : 4,
             "bundle" : "com.flexymind.mheaterfull",
             "link" : "https://itunes.apple.com/ru/app/kolobok-i-cudo-pecka/id659872234?mt=8",
             "ru_name" : "Колобок\nи Чудо-печка",
