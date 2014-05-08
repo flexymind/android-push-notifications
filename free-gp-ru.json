@@ -1,7 +1,7 @@
 {
-version: "2",
-title: "Новые детские игры и обновления для Вас!",
-message: "Нажмите, чтобы проверить",
-link: "market://details?id=com.flexymind.kidsadventure",
-package: "com.flexymind.kidsadventure"
+version: "3",
+title: "Новинка: Математика для детей!",
+message: "Нажмите, чтобы посмотреть",
+link: "market://details?id=com.flexymind.math",
+package: "com.flexymind.math"
 }
