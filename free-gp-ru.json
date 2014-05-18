@@ -1,5 +1,5 @@
 {
-version: "3",
+version: "4",
 title: "Новинка: Математика для детей!",
 message: "Нажмите, чтобы посмотреть",
 link: "market://details?id=com.flexymind.math",
