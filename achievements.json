@@ -2,32 +2,74 @@
 	"version" : 1,
 	"achievements":[	
 		{
-			"name":"ach_2",
+			"name":"back_game_1",
 			"rules":[
-				"OnGetExpItemClicked",
-				"OnGetExpItemClicked",
-				"OnGetExpItemClicked",
-				"OnGetExpItemClicked",
-				"OnGetExpItemClicked",
-				"OnGetExpItemClicked"
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent"
 			],
 			"gems":1
 		},
 		{
-			"name":"ach_3",
+			"name":"back_game_2",
 			"rules":[
-				"OnGetExpItemClicked",
-				"OnSettingsClicked"
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent"
 			],
-			"gems":1
+			"gems":2
 		},
 		{
-			"name":"test",
+			"name":"back_game_3",
 			"rules":[
-				"OnGetExpItemClicked",
-				"OnBuyBoosterItemClicked"
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent"
 			],
-			"gems":1
+			"gems":3
+		},
+		{
+			"name":"back_game_4",
+			"rules":[
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent"
+			],
+			"gems":4
+		},
+		{
+			"name":"back_game_5",
+			"rules":[
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent",
+				"BackGameEvent"
+			],
+			"gems":5
 		}
 	]
 }
