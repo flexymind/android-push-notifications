@@ -1,5 +1,6 @@
 {
-	"achievements":[
+	"version" : 1,
+	"achievements":[	
 		{
 			"name":"ach_2",
 			"rules":[
@@ -9,21 +10,24 @@
 				"OnGetExpItemClicked",
 				"OnGetExpItemClicked",
 				"OnGetExpItemClicked"
-			]
+			],
+			"gems":1
 		},
 		{
 			"name":"ach_3",
 			"rules":[
 				"OnGetExpItemClicked",
 				"OnSettingsClicked"
-			]
+			],
+			"gems":1
 		},
 		{
 			"name":"test",
 			"rules":[
 				"OnGetExpItemClicked",
 				"OnBuyBoosterItemClicked"
-			]
+			],
+			"gems":1
 		}
 	]
 }
