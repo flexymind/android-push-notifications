@@ -2,7 +2,7 @@
 	"version" : 1,
 	"achievements":[	
 		{
-			"name":"back_game_1",
+			"name":"ach_gamer_1",
 			"rules":[
 				"BackGameEvent",
 				"BackGameEvent",
@@ -11,7 +11,7 @@
 			"gems":1
 		},
 		{
-			"name":"back_game_2",
+			"name":"ach_gamer_2",
 			"rules":[
 				"BackGameEvent",
 				"BackGameEvent",
@@ -22,7 +22,7 @@
 			"gems":2
 		},
 		{
-			"name":"back_game_3",
+			"name":"ach_gamer_3",
 			"rules":[
 				"BackGameEvent",
 				"BackGameEvent",
@@ -35,7 +35,7 @@
 			"gems":3
 		},
 		{
-			"name":"back_game_4",
+			"name":"ach_gamer_4",
 			"rules":[
 				"BackGameEvent",
 				"BackGameEvent",
@@ -51,7 +51,7 @@
 			"gems":4
 		},
 		{
-			"name":"back_game_5",
+			"name":"ach_gamer_5",
 			"rules":[
 				"BackGameEvent",
 				"BackGameEvent",
