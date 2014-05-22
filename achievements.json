@@ -2,6 +2,7 @@
 	"version" : 1,
 	"achievements":[	
 		{
+			"index":1,
 			"name":"ach_gamer_1",
 			"rules":[
 				"BackGameEvent",
@@ -11,6 +12,7 @@
 			"gems":1
 		},
 		{
+			"index":1,
 			"name":"ach_gamer_2",
 			"rules":[
 				"BackGameEvent",
@@ -22,6 +24,7 @@
 			"gems":2
 		},
 		{
+			"index":1,
 			"name":"ach_gamer_3",
 			"rules":[
 				"BackGameEvent",
@@ -35,6 +38,7 @@
 			"gems":3
 		},
 		{
+			"index":1,
 			"name":"ach_gamer_4",
 			"rules":[
 				"BackGameEvent",
@@ -51,6 +55,7 @@
 			"gems":4
 		},
 		{
+			"index":1,
 			"name":"ach_gamer_5",
 			"rules":[
 				"BackGameEvent",
@@ -72,6 +77,7 @@
 			"gems":5
 		},
 		{
+			"index":2,
 			"name":"ach_7level",
 			"rules":[
 				"Level7Completed"
@@ -79,6 +85,7 @@
 			"gems":5
 		},
 		{
+			"index":3,
 			"name":"ach_10level",
 			"rules":[
 				"Level10Completed"
@@ -86,6 +93,7 @@
 			"gems":5
 		},
 		{
+			"index":4,
 			"name":"ach_14level",
 			"rules":[
 				"Level14Completed"
@@ -93,6 +101,7 @@
 			"gems":5
 		},
 		{
+			"index":5,
 			"name":"ach_21level",
 			"rules":[
 				"Level21Completed"
@@ -100,6 +109,7 @@
 			"gems":5
 		},
 		{
+			"index":6,
 			"name":"ach_27level",
 			"rules":[
 				"Level27Completed"
@@ -107,6 +117,7 @@
 			"gems":5
 		},
 		{
+			"index":7,
 			"name":"ach_32level",
 			"rules":[
 				"Level32Completed"
@@ -114,6 +125,7 @@
 			"gems":5
 		},
 		{
+			"index":8,
 			"name":"ach_37level",
 			"rules":[
 				"Level37Completed"
@@ -121,6 +133,7 @@
 			"gems":5
 		},
 		{
+			"index":9,
 			"name":"ach_40level",
 			"rules":[
 				"Level45Completed"
