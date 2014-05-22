@@ -70,6 +70,62 @@
 				"BackGameEvent"
 			],
 			"gems":5
+		},
+		{
+			"name":"ach_7level",
+			"rules":[
+				"Level7Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_10level",
+			"rules":[
+				"Level10Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_14level",
+			"rules":[
+				"Level14Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_21level",
+			"rules":[
+				"Level21Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_27level",
+			"rules":[
+				"Level27Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_32level",
+			"rules":[
+				"Level32Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_37level",
+			"rules":[
+				"Level37Completed"
+			],
+			"gems":5
+		},
+		{
+			"name":"ach_40level",
+			"rules":[
+				"Level45Completed"
+			],
+			"gems":5
 		}
 	]
 }
