@@ -1,6 +1,6 @@
 {
-version: "27",
-title: "Новая Математика для детей!",
+version: "28",
+title: "Новые детские развивалки!",
 message: "Нажмите, чтобы посмотреть",
 link: "market://details?id=com.flexymind.math",
 package: "com.flexymind.math"
