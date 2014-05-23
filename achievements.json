@@ -116,8 +116,8 @@
 			"name":"ach_7level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level7Completed"
+					"count":7,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -127,8 +127,8 @@
 			"name":"ach_10level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level10Completed"
+					"count":10,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -138,8 +138,8 @@
 			"name":"ach_14level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level14Completed"
+					"count":14,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -149,8 +149,8 @@
 			"name":"ach_21level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level21Completed"
+					"count":21,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -160,8 +160,8 @@
 			"name":"ach_27level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level27Completed"
+					"count":27,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -171,8 +171,8 @@
 			"name":"ach_32level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level32Completed"
+					"count":32,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -182,8 +182,8 @@
 			"name":"ach_37level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level37Completed"
+					"count":37,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
@@ -193,8 +193,8 @@
 			"name":"ach_40level",
 			"rules":[
 				{
-					"count":1,
-					"event":"Level45Completed"
+					"count":40,
+					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
