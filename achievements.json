@@ -80,7 +80,7 @@
 			"index":2,
 			"name":"ach_clicker_1",
 			"rules":[
-				"NilEvent"
+				"AchClicker1Event"
 			],
 			"gems":1
 		},
@@ -88,7 +88,7 @@
 			"index":2,
 			"name":"ach_clicker_2",
 			"rules":[
-				"NilEvent"
+				"AchClicker2Event"
 			],
 			"gems":2
 		},
@@ -96,7 +96,7 @@
 			"index":2,
 			"name":"ach_clicker_3",
 			"rules":[
-				"NilEvent"
+				"AchClicker3Event"
 			],
 			"gems":3
 		},
@@ -104,7 +104,7 @@
 			"index":2,
 			"name":"ach_clicker_4",
 			"rules":[
-				"NilEvent"
+				"AchClicker4Event"
 			],
 			"gems":4
 		},
@@ -112,7 +112,7 @@
 			"index":2,
 			"name":"ach_clicker_5",
 			"rules":[
-				"NilEvent"
+				"AchClicker5Event"
 			],
 			"gems":5
 		},
