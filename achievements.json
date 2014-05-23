@@ -5,9 +5,10 @@
 			"index":1,
 			"name":"ach_gamer_1",
 			"rules":[
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent"
+				{
+					"count":3,
+					"event":"BackGameEvent"
+				}
 			],
 			"gems":1
 		},
@@ -15,25 +16,21 @@
 			"index":1,
 			"name":"ach_gamer_2",
 			"rules":[
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent"
+				{
+					"count":8,
+					"event":"BackGameEvent"
+				}
 			],
 			"gems":2
 		},
 		{
 			"index":1,
 			"name":"ach_gamer_3",
-			"rules":[
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent"
+			"rules":[				
+				{
+					"count":10,
+					"event":"BackGameEvent"
+				}
 			],
 			"gems":3
 		},
@@ -41,16 +38,10 @@
 			"index":1,
 			"name":"ach_gamer_4",
 			"rules":[
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent"
+				{
+					"count":13,
+					"event":"BackGameEvent"
+				}
 			],
 			"gems":4
 		},
@@ -58,21 +49,10 @@
 			"index":1,
 			"name":"ach_gamer_5",
 			"rules":[
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent",
-				"BackGameEvent"
+				{
+					"count":18,
+					"event":"BackGameEvent"
+				}
 			],
 			"gems":5
 		},
@@ -80,7 +60,10 @@
 			"index":2,
 			"name":"ach_clicker_1",
 			"rules":[
-				"AchClicker1Event"
+				{
+					"count":100,
+					"event":"OnGetExpItemClicked"
+				}
 			],
 			"gems":1
 		},
@@ -88,7 +71,10 @@
 			"index":2,
 			"name":"ach_clicker_2",
 			"rules":[
-				"AchClicker2Event"
+				{
+					"count":1000,
+					"event":"OnGetExpItemClicked"
+				}
 			],
 			"gems":2
 		},
@@ -96,7 +82,10 @@
 			"index":2,
 			"name":"ach_clicker_3",
 			"rules":[
-				"AchClicker3Event"
+				{
+					"count":10000,
+					"event":"OnGetExpItemClicked"
+				}
 			],
 			"gems":3
 		},
@@ -104,7 +93,10 @@
 			"index":2,
 			"name":"ach_clicker_4",
 			"rules":[
-				"AchClicker4Event"
+				{
+					"count":25000,
+					"event":"OnGetExpItemClicked"
+				}
 			],
 			"gems":4
 		},
@@ -112,7 +104,10 @@
 			"index":2,
 			"name":"ach_clicker_5",
 			"rules":[
-				"AchClicker5Event"
+				{
+					"count":250000,
+					"event":"OnGetExpItemClicked"
+				}
 			],
 			"gems":5
 		},
@@ -120,7 +115,10 @@
 			"index":3,
 			"name":"ach_7level",
 			"rules":[
-				"Level7Completed"
+				{
+					"count":1,
+					"event":"Level7Completed"
+				}
 			],
 			"gems":5
 		},
@@ -128,7 +126,10 @@
 			"index":4,
 			"name":"ach_10level",
 			"rules":[
-				"Level10Completed"
+				{
+					"count":1,
+					"event":"Level10Completed"
+				}
 			],
 			"gems":5
 		},
@@ -136,7 +137,10 @@
 			"index":5,
 			"name":"ach_14level",
 			"rules":[
-				"Level14Completed"
+				{
+					"count":1,
+					"event":"Level14Completed"
+				}
 			],
 			"gems":5
 		},
@@ -144,7 +148,10 @@
 			"index":6,
 			"name":"ach_21level",
 			"rules":[
-				"Level21Completed"
+				{
+					"count":1,
+					"event":"Level21Completed"
+				}
 			],
 			"gems":5
 		},
@@ -152,7 +159,10 @@
 			"index":7,
 			"name":"ach_27level",
 			"rules":[
-				"Level27Completed"
+				{
+					"count":1,
+					"event":"Level27Completed"
+				}
 			],
 			"gems":5
 		},
@@ -160,7 +170,10 @@
 			"index":8,
 			"name":"ach_32level",
 			"rules":[
-				"Level32Completed"
+				{
+					"count":1,
+					"event":"Level32Completed"
+				}
 			],
 			"gems":5
 		},
@@ -168,7 +181,10 @@
 			"index":9,
 			"name":"ach_37level",
 			"rules":[
-				"Level37Completed"
+				{
+					"count":1,
+					"event":"Level37Completed"
+				}
 			],
 			"gems":5
 		},
@@ -176,7 +192,10 @@
 			"index":10,
 			"name":"ach_40level",
 			"rules":[
-				"Level45Completed"
+				{
+					"count":1,
+					"event":"Level45Completed"
+				}
 			],
 			"gems":5
 		}
