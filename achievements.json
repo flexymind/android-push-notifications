@@ -78,6 +78,46 @@
 		},
 		{
 			"index":2,
+			"name":"ach_clicker_1",
+			"rules":[
+				"NilEvent"
+			],
+			"gems":1
+		},
+		{
+			"index":2,
+			"name":"ach_clicker_2",
+			"rules":[
+				"NilEvent"
+			],
+			"gems":2
+		},
+		{
+			"index":2,
+			"name":"ach_clicker_3",
+			"rules":[
+				"NilEvent"
+			],
+			"gems":3
+		},
+		{
+			"index":2,
+			"name":"ach_clicker_4",
+			"rules":[
+				"NilEvent"
+			],
+			"gems":4
+		},
+		{
+			"index":2,
+			"name":"ach_clicker_5",
+			"rules":[
+				"NilEvent"
+			],
+			"gems":5
+		},
+		{
+			"index":3,
 			"name":"ach_7level",
 			"rules":[
 				"Level7Completed"
@@ -85,7 +125,7 @@
 			"gems":5
 		},
 		{
-			"index":3,
+			"index":4,
 			"name":"ach_10level",
 			"rules":[
 				"Level10Completed"
@@ -93,7 +133,7 @@
 			"gems":5
 		},
 		{
-			"index":4,
+			"index":5,
 			"name":"ach_14level",
 			"rules":[
 				"Level14Completed"
@@ -101,7 +141,7 @@
 			"gems":5
 		},
 		{
-			"index":5,
+			"index":6,
 			"name":"ach_21level",
 			"rules":[
 				"Level21Completed"
@@ -109,7 +149,7 @@
 			"gems":5
 		},
 		{
-			"index":6,
+			"index":7,
 			"name":"ach_27level",
 			"rules":[
 				"Level27Completed"
@@ -117,7 +157,7 @@
 			"gems":5
 		},
 		{
-			"index":7,
+			"index":8,
 			"name":"ach_32level",
 			"rules":[
 				"Level32Completed"
@@ -125,7 +165,7 @@
 			"gems":5
 		},
 		{
-			"index":8,
+			"index":9,
 			"name":"ach_37level",
 			"rules":[
 				"Level37Completed"
@@ -133,7 +173,7 @@
 			"gems":5
 		},
 		{
-			"index":9,
+			"index":10,
 			"name":"ach_40level",
 			"rules":[
 				"Level45Completed"
