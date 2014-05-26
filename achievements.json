@@ -56,6 +56,7 @@
 			],
 			"gems":5
 		},
+
 		{
 			"index":2,
 			"name":"ach_clicker_1",
@@ -111,6 +112,7 @@
 			],
 			"gems":5
 		},
+
 		{
 			"index":3,
 			"name":"ach_career_1",
@@ -167,8 +169,65 @@
 			"gems":5
 		},
 
+
 		{
 			"index":4,
+			"name":"ach_banker_1",
+			"rules":[
+				{
+					"count":1000,
+					"event":"MoneyAdded"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":4,
+			"name":"ach_banker_2",
+			"rules":[
+				{
+					"count":16000,
+					"event":"MoneyAdded"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":4,
+			"name":"ach_banker_3",
+			"rules":[
+				{
+					"count":66000,
+					"event":"MoneyAdded"
+				}
+			],
+			"gems":5
+		},		
+		{
+			"index":4,
+			"name":"ach_banker_4",
+			"rules":[
+				{
+					"count":316000,
+					"event":"MoneyAdded"
+				}
+			],
+			"gems":5
+		},		
+		{
+			"index":4,
+			"name":"ach_banker_5",
+			"rules":[
+				{
+					"count":1316000,
+					"event":"MoneyAdded"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":15,
 			"name":"ach_7level",
 			"rules":[
 				{
@@ -179,7 +238,7 @@
 			"gems":5
 		},
 		{
-			"index":5,
+			"index":16,
 			"name":"ach_10level",
 			"rules":[
 				{
@@ -190,7 +249,7 @@
 			"gems":5
 		},
 		{
-			"index":6,
+			"index":17,
 			"name":"ach_14level",
 			"rules":[
 				{
@@ -201,7 +260,7 @@
 			"gems":5
 		},
 		{
-			"index":7,
+			"index":18,
 			"name":"ach_21level",
 			"rules":[
 				{
@@ -212,7 +271,7 @@
 			"gems":5
 		},
 		{
-			"index":8,
+			"index":19,
 			"name":"ach_27level",
 			"rules":[
 				{
@@ -223,7 +282,7 @@
 			"gems":5
 		},
 		{
-			"index":9,
+			"index":20,
 			"name":"ach_32level",
 			"rules":[
 				{
@@ -234,7 +293,7 @@
 			"gems":5
 		},
 		{
-			"index":10,
+			"index":21,
 			"name":"ach_37level",
 			"rules":[
 				{
@@ -245,7 +304,7 @@
 			"gems":5
 		},
 		{
-			"index":11,
+			"index":22,
 			"name":"ach_40level",
 			"rules":[
 				{
