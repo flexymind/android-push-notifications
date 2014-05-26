@@ -186,7 +186,7 @@
 			"name":"ach_banker_2",
 			"rules":[
 				{
-					"count":16000,
+					"count":15000,
 					"event":"MoneyAdded"
 				}
 			],
@@ -197,7 +197,7 @@
 			"name":"ach_banker_3",
 			"rules":[
 				{
-					"count":66000,
+					"count":50000,
 					"event":"MoneyAdded"
 				}
 			],
@@ -208,7 +208,7 @@
 			"name":"ach_banker_4",
 			"rules":[
 				{
-					"count":316000,
+					"count":250000,
 					"event":"MoneyAdded"
 				}
 			],
@@ -219,7 +219,7 @@
 			"name":"ach_banker_5",
 			"rules":[
 				{
-					"count":1316000,
+					"count":1000000,
 					"event":"MoneyAdded"
 				}
 			],
@@ -242,7 +242,7 @@
 			"name":"ach_energy_2",
 			"rules":[
 				{
-					"count":400,
+					"count":300,
 					"event":"EnergyAchievementEvent"
 				}
 			],
@@ -253,7 +253,7 @@
 			"name":"ach_energy_3",
 			"rules":[
 				{
-					"count":950,
+					"count":500,
 					"event":"EnergyAchievementEvent"
 				}
 			],
@@ -264,7 +264,7 @@
 			"name":"ach_energy_4",
 			"rules":[
 				{
-					"count":1700,
+					"count":750,
 					"event":"EnergyAchievementEvent"
 				}
 			],
@@ -275,8 +275,66 @@
 			"name":"ach_energy_5",
 			"rules":[
 				{
-					"count":2700,
+					"count":1000,
 					"event":"EnergyAchievementEvent"
+				}
+			],
+			"gems":5
+		},
+
+
+		{
+			"index":6,
+			"name":"ach_booster_1",
+			"rules":[
+				{
+					"count":3,
+					"event":"OnBoosterBought"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":6,
+			"name":"ach_booster_2",
+			"rules":[
+				{
+					"count":10,
+					"event":"OnBoosterBought"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":6,
+			"name":"ach_booster_3",
+			"rules":[
+				{
+					"count":20,
+					"event":"OnBoosterBought"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":6,
+			"name":"ach_booster_4",
+			"rules":[
+				{
+					"count":30,
+					"event":"OnBoosterBought"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":6,
+			"name":"ach_booster_5",
+			"rules":[
+				{
+					"count":50,
+					"event":"OnBoosterBought"
 				}
 			],
 			"gems":5
