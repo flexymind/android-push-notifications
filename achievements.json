@@ -113,88 +113,144 @@
 		},
 		{
 			"index":3,
-			"name":"ach_7level",
+			"name":"ach_career_1",
 			"rules":[
 				{
-					"count":7,
+					"count":4,
 					"event":"LevelCompleted"
 				}
 			],
 			"gems":5
 		},
 		{
-			"index":4,
-			"name":"ach_10level",
+			"index":3,
+			"name":"ach_career_2",
 			"rules":[
 				{
-					"count":10,
+					"count":9,
 					"event":"LevelCompleted"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":3,
+			"name":"ach_career_3",
+			"rules":[
+				{
+					"count":19,
+					"event":"LevelCompleted"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":3,
+			"name":"ach_career_4",
+			"rules":[
+				{
+					"count":34,
+					"event":"LevelCompleted"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":3,
+			"name":"ach_career_5",
+			"rules":[
+				{
+					"count":59,
+					"event":"LevelCompleted"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":4,
+			"name":"ach_7level",
+			"rules":[
+				{
+					"count":7,
+					"event":"Level7Completed"
 				}
 			],
 			"gems":5
 		},
 		{
 			"index":5,
-			"name":"ach_14level",
+			"name":"ach_10level",
 			"rules":[
 				{
-					"count":14,
-					"event":"LevelCompleted"
+					"count":10,
+					"event":"Level10Completed"
 				}
 			],
 			"gems":5
 		},
 		{
 			"index":6,
-			"name":"ach_21level",
+			"name":"ach_14level",
 			"rules":[
 				{
-					"count":21,
-					"event":"LevelCompleted"
+					"count":14,
+					"event":"Level14Completed"
 				}
 			],
 			"gems":5
 		},
 		{
 			"index":7,
-			"name":"ach_27level",
+			"name":"ach_21level",
 			"rules":[
 				{
-					"count":27,
-					"event":"LevelCompleted"
+					"count":21,
+					"event":"Level21Completed"
 				}
 			],
 			"gems":5
 		},
 		{
 			"index":8,
-			"name":"ach_32level",
+			"name":"ach_27level",
 			"rules":[
 				{
-					"count":32,
-					"event":"LevelCompleted"
+					"count":27,
+					"event":"Level27Completed"
 				}
 			],
 			"gems":5
 		},
 		{
 			"index":9,
-			"name":"ach_37level",
+			"name":"ach_32level",
 			"rules":[
 				{
-					"count":37,
-					"event":"LevelCompleted"
+					"count":32,
+					"event":"Level32Completed"
 				}
 			],
 			"gems":5
 		},
 		{
 			"index":10,
+			"name":"ach_37level",
+			"rules":[
+				{
+					"count":37,
+					"event":"Level37Completed"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":11,
 			"name":"ach_40level",
 			"rules":[
 				{
 					"count":40,
-					"event":"LevelCompleted"
+					"event":"Level40Completed"
 				}
 			],
 			"gems":5
