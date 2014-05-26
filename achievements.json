@@ -456,7 +456,7 @@
 			"name":"ach_7level",
 			"rules":[
 				{
-					"count":7,
+					"count":1,
 					"event":"Level7Completed"
 				}
 			],
@@ -467,7 +467,7 @@
 			"name":"ach_10level",
 			"rules":[
 				{
-					"count":10,
+					"count":1,
 					"event":"Level10Completed"
 				}
 			],
@@ -478,7 +478,7 @@
 			"name":"ach_14level",
 			"rules":[
 				{
-					"count":14,
+					"count":1,
 					"event":"Level14Completed"
 				}
 			],
@@ -489,7 +489,7 @@
 			"name":"ach_21level",
 			"rules":[
 				{
-					"count":21,
+					"count":1,
 					"event":"Level21Completed"
 				}
 			],
@@ -500,7 +500,7 @@
 			"name":"ach_27level",
 			"rules":[
 				{
-					"count":27,
+					"count":1,
 					"event":"Level27Completed"
 				}
 			],
@@ -511,7 +511,7 @@
 			"name":"ach_32level",
 			"rules":[
 				{
-					"count":32,
+					"count":1,
 					"event":"Level32Completed"
 				}
 			],
@@ -522,7 +522,7 @@
 			"name":"ach_37level",
 			"rules":[
 				{
-					"count":37,
+					"count":1,
 					"event":"Level37Completed"
 				}
 			],
@@ -533,11 +533,24 @@
 			"name":"ach_40level",
 			"rules":[
 				{
-					"count":40,
+					"count":1,
 					"event":"Level40Completed"
 				}
 			],
 			"gems":5
 		}
+
+		{
+			"index":23,
+			"name":"ach_politician",
+			"rules":[
+				{
+					"count":1,
+					"event":"Level50Completed"
+				}
+			],
+			"gems":5
+		},
+
 	]
 }
