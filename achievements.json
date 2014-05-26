@@ -327,7 +327,6 @@
 			],
 			"gems":5
 		},
-
 		{
 			"index":6,
 			"name":"ach_booster_5",
@@ -335,6 +334,62 @@
 				{
 					"count":50,
 					"event":"OnBoosterBought"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":7,
+			"name":"ach_brain_1",
+			"rules":[
+				{
+					"count":5,
+					"event":"IncrementClickedExpValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":7,
+			"name":"ach_brain_2",
+			"rules":[
+				{
+					"count":25,
+					"event":"IncrementClickedExpValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":7,
+			"name":"ach_brain_3",
+			"rules":[
+				{
+					"count":100,
+					"event":"IncrementClickedExpValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":7,
+			"name":"ach_brain_4",
+			"rules":[
+				{
+					"count":500,
+					"event":"IncrementClickedExpValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":7,
+			"name":"ach_brain_5",
+			"rules":[
+				{
+					"count":1500,
+					"event":"IncrementClickedExpValue"
 				}
 			],
 			"gems":5
