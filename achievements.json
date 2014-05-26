@@ -550,6 +550,66 @@
 				}
 			],
 			"gems":5
+		},
+
+		{
+			"index":24,
+			"name":"ach_deputat",
+			"rules":[
+				{
+					"count":1,
+					"event":"Level53Completed"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":25,
+			"name":"ach_gmana",
+			"rules":[
+				{
+					"count":1,
+					"event":"Level59Completed"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":26,
+			"name":"ach_president",
+			"rules":[
+				{
+					"count":1,
+					"event":"Level66Completed"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":27,
+			"name":"ach_worldman",
+			"rules":[
+				{
+					"count":1,
+					"event":"Level67Completed"
+				}
+			],
+			"gems":5
+		},
+
+		{
+			"index":28,
+			"name":"ach_worldowner",
+			"rules":[
+				{
+					"count":1,
+					"event":"Level71Completed"
+				}
+			],
+			"gems":5
 		}
 	]
 }
