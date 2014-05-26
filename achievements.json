@@ -396,6 +396,62 @@
 		},
 
 		{
+			"index":8,
+			"name":"ach_magnate_1",
+			"rules":[
+				{
+					"count":5,
+					"event":"IncrementClickedMoneyValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":8,
+			"name":"ach_magnate_2",
+			"rules":[
+				{
+					"count":25,
+					"event":"IncrementClickedMoneyValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":8,
+			"name":"ach_magnate_3",
+			"rules":[
+				{
+					"count":100,
+					"event":"IncrementClickedMoneyValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":8,
+			"name":"ach_magnate_4",
+			"rules":[
+				{
+					"count":500,
+					"event":"IncrementClickedMoneyValue"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":8,
+			"name":"ach_magnate_5",
+			"rules":[
+				{
+					"count":1000,
+					"event":"IncrementClickedMoneyValue"
+				}
+			],
+			"gems":5
+		},
+
+		{
 			"index":15,
 			"name":"ach_7level",
 			"rules":[
