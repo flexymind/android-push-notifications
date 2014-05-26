@@ -227,6 +227,62 @@
 		},
 
 		{
+			"index":5,
+			"name":"ach_energy_1",
+			"rules":[
+				{
+					"count":150,
+					"event":"EnergyAchievementEvent"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":5,
+			"name":"ach_energy_2",
+			"rules":[
+				{
+					"count":400,
+					"event":"EnergyAchievementEvent"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":5,
+			"name":"ach_energy_3",
+			"rules":[
+				{
+					"count":950,
+					"event":"EnergyAchievementEvent"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":5,
+			"name":"ach_energy_4",
+			"rules":[
+				{
+					"count":1700,
+					"event":"EnergyAchievementEvent"
+				}
+			],
+			"gems":5
+		},
+		{
+			"index":5,
+			"name":"ach_energy_5",
+			"rules":[
+				{
+					"count":2700,
+					"event":"EnergyAchievementEvent"
+				}
+			],
+			"gems":5
+		},
+
+		{
 			"index":15,
 			"name":"ach_7level",
 			"rules":[
