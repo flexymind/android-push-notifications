@@ -1,5 +1,5 @@
 {
-version: "28",
+version: "29",
 title: "Новая игра: Математика для детей!",
 message: "Нажмите, чтобы проверить",
 link: "market://details?id=com.flexymind.math",
