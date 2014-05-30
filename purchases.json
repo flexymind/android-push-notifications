@@ -13,7 +13,7 @@
 	    {
 	    	"id" : "com.flexymind.presidentsimulator.gems_550",
 	    	"count" : 550,
-	    	"count_string" : "500 + 50"
+	    	"count_string" : "500+50"
 	    },
 	    {
 	    	"id" : "com.flexymind.presidentsimulator.gems_1120",
@@ -23,7 +23,7 @@
 	    {
 	    	"id" : "com.flexymind.presidentsimulator.gems_11500",
 	    	"count" : 11500,
-	    	"count_string" : "10000 + 1500"
+	    	"count_string" : "10000+1500"
 	    }
     ]
 } 
