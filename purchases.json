@@ -1,34 +1,29 @@
 {
     "purchases":[
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_1",
-	    	"count" : 1,
-	    	"count_string" : "1"
+	    	"id" : "com.flexymind.presidentsimulator.gems_55",
+	    	"count" : 55,
+	    	"count_string" : "50+5"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_5",
-	    	"count" : 5,
-	    	"count_string" : "4 + 1"
+	    	"id" : "com.flexymind.presidentsimulator.gems_110",
+	    	"count" : 110,
+	    	"count_string" : "100+10"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_10",
-	    	"count" : 10,
-	    	"count_string" : "7 + 3"
+	    	"id" : "com.flexymind.presidentsimulator.gems_550",
+	    	"count" : 550,
+	    	"count_string" : "500 + 50"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_20",
-	    	"count" : 20,
-	    	"count_string" : "15 + 5"
+	    	"id" : "com.flexymind.presidentsimulator.gems_1120",
+	    	"count" : 1120,
+	    	"count_string" : "1000+120"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_50",
-	    	"count" : 50,
-	    	"count_string" : "40 + 10"
-	    },
-	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_100",
-	    	"count" : 100,
-	    	"count_string" : "70 + 30"
+	    	"id" : "com.flexymind.presidentsimulator.gems_11500",
+	    	"count" : 11500,
+	    	"count_string" : "10000 + 1500"
 	    }
     ]
 } 
