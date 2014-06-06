@@ -62,7 +62,7 @@
 			"name":"ach_clicker_1",
 			"rules":[
 				{
-					"count":50,
+					"count":45,
 					"event":"OnGetExpItemClicked"
 				}
 			],
