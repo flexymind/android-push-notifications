@@ -1,6 +1,6 @@
 {
-version: "6",
-title: "Новинка: Математика и цифры для детей!",
+version: "7",
+title: "Математика и другие развивалки для детей!",
 message: "Нажмите, чтобы посмотреть",
 link: "market://details?id=com.flexymind.math",
 package: "com.flexymind.math"
