@@ -1,0 +1,48 @@
+{
+    "facebook" : {
+        "ru" : {
+            "android" : "goo.gl/klgz8y",
+            "ios" : "goo.gl/i8nxju",
+            "group" : {
+                "title" : "Facebook",
+                "link" : "facebook.com/pclicker"
+            }
+        },
+        "en" : {
+            "android" : "goo.gl/b3p5dk",
+            "ios" : "goo.gl/pbli2c",
+            "group" : {
+                "title" : "Facebook",
+                "link" : "www.facebook.com/pclicker"
+            }
+        }
+    },
+    "vk" : {
+        "ru" : {
+            "android" : "goo.gl/ct8xo6",
+            "ios" : "goo.gl/i8nxju",
+            "group" : {
+                "title" : "VK",
+                "link" : "vk.com/pclicker"
+            }
+        },
+        "en" : {
+            "android" : "goo.gl/gs7ovs",
+            "ios" : "goo.gl/pbli2c",
+            "group" : {
+                "title" : "VK",
+                "link" : "vk.com/pclicker"
+            }
+        }
+    },
+    "twitter" : {
+        "ru" : {
+            "android" : "goo.gl/tfzz57",
+            "ios" : "goo.gl/i8nxju"
+        },
+        "en" : {
+            "android" : "goo.gl/lrxouo",
+            "ios" : "goo.gl/pbli2c"
+        }
+    }
+}
