@@ -1,27 +1,32 @@
 {
     "purchases":[
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_55",
+	    	"id" : "com.flexymind.presidentclicker_pile0.99",
+	    	"count" : 16,
+	    	"count_string" : "15+1"
+	    },
+	    {
+	    	"id" : "com.flexymind.presidentclicker_sack2.99",
 	    	"count" : 55,
 	    	"count_string" : "50+5"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_110",
+	    	"id" : "com.flexymind.presidentclicker_purse4.99",
 	    	"count" : 110,
 	    	"count_string" : "100+10"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_550",
+	    	"id" : "com.flexymind.presidentclicker_case19.99",
 	    	"count" : 550,
 	    	"count_string" : "500+50"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_1120",
+	    	"id" : "com.flexymind.presidentclicker_trunk39.99",
 	    	"count" : 1120,
 	    	"count_string" : "1000+120"
 	    },
 	    {
-	    	"id" : "com.flexymind.presidentsimulator.gems_11500",
+	    	"id" : "com.flexymind.presidentclicker_safe109.99",
 	    	"count" : 11500,
 	    	"count_string" : "10000+1500"
 	    }
