@@ -1,6 +1,6 @@
 {
-  "publish_actions" : false,
-  "reach_level" : false,
+  "publish_actions" : true,
+  "reach_level" : true,
   "gain_experience" : true,
   "get_achievements" : true,
   "buy_booster" : true,
