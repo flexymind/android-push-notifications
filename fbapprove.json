@@ -1,5 +1,5 @@
 {
-  "publish_actions" : false,
+  "publish_actions" : true,
   "reach_level" : false,
   "gain_experience" : true,
   "get_achievements" : true,
